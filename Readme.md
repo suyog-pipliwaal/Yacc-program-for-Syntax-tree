@@ -1,5 +1,5 @@
 # Problem statment
-Write a YACC program to generate syntax tree for nay string accepted by following grammer:-
+Write a YACC program to generate syntax tree for any string accepted by following grammer:-
 
 	S->id=E
 	
